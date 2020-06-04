@@ -9,3 +9,5 @@ Links to assignments I have worked on with my TTP peers:
   - Assignment 5: https://github.com/konstantinNovichenko/TTP_Assignment5
   - Assignment 6: https://github.com/neissacodes/TTP_Assignment6
   - Assignment 7: https://github.com/Grimlock123/TTPGroupExercise
+  - Assignment 8 : https://github.com/CUNY-2X-TTP-2020/react-zip-search
+  - Assignment 9 : 
