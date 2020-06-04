@@ -10,4 +10,4 @@ Links to assignments I have worked on with my TTP peers:
   - Assignment 6: https://github.com/neissacodes/TTP_Assignment6
   - Assignment 7: https://github.com/Grimlock123/TTPGroupExercise
   - Assignment 8 : https://github.com/CUNY-2X-TTP-2020/react-zip-search
-  - Assignment 9 : 
+  - Assignment 9 : https://github.com/CUNY-2X-TTP-2020/react-city-search
